@@ -1,6 +1,6 @@
 # Hi, I’m @henrioliveira 👋🏽
 
-### I'm a Sci-Fi and languages enthusiast 🌏 bartender 🍸 and a ethernal learner 📖
+### I'm a Sci-Fi 🖖🏽 and languages 🌏 enthusiast bartender 🍸 and a ethernal learner 📖
 
 ### I also am a System Development Student, passionate about good designs, and UX/UI design enthusiast. My goal is to make great ideas real through coding.
 
