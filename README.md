@@ -1,8 +1,8 @@
 # Hi, I’m @henrioliveira 👋🏽
 
-### I’m a Sci-Fi and languages enthusiast, bartender and a ethernal learner 📖
+### I'm a Sci-Fi and languages enthusiast 🌏 bartender 🍸 and a ethernal learner 📖
 
-### My current major is IT and i'm learning a lot of HTML, CSS, Javascript, ui/ux 💡
+### I also am a System Development Student, passionate about good designs, and UX/UI design enthusiast. My goal is to make great ideas real through coding.
 
 <!---
 henrioliveira/henrioliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
